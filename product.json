@@ -1,0 +1,29 @@
+
+
+[
+  {"name":"straiped",
+    "id":1
+    "price":2000,
+    "image_url":"https://assets.manufactum.de/assets/img/0001/00010059/0001005920-01.jpg/summer-dress-striped.jpg?profile=pdsmain_150",
+    "dec":"very valubale and expensive",},
+   {"name":"simple",
+    "id":2
+    "price":2000,
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDTOU6zTvU6pCiJQJ1dhNjV_M2LtXZ3friw&s",
+    "dec":"very valubale and expensive",},
+   {"name":"checked",
+    "id":3
+    "price":4000,
+    "image_url":"https://assets.manufactum.de/assets/img/0001/00010059/0001005920-01.jpg/summer-dress-striped.jpg?profile=pdsmain_150",
+    "dec":"very cheap and ecanimical",},
+   {"name":"polka dot",
+    "id":4
+    "price":1000,
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziUfDoKPMuMrGZ658D2TMJxO4PF3qNfSrFQ&s",
+    "dec":"wasted",},
+   {"name":"plain",
+    "id":5
+    "price":5000,
+    "image_url":"https://asset.promod.com/product/205443-su-1733473033.jpg?auto=webp&quality=80&crop=10:15",
+    "dec":"awesome",},]
+    
